@@ -5,9 +5,9 @@ const fs = require('fs');
 const path = require('path');
 
 const manifest = {
-    id: 'com.yourmoviestreamsaddon',
+    id: 'com.yourmoviestreamshola',
     version: '1.0.0',
-    name: 'Your Movie Streams',
+    name: 'Hola Vod',
     description: 'Movies from streams',
     resources: ['catalog', 'stream', 'meta'],
     types: ['movie'],
